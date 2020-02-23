@@ -4,8 +4,7 @@ Title: JQ Tools
 Version: 0.1.0
 Author: Jack Quach
 Maintainer: Jack Quach <jq@dal.ca>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Description: A bunch of tools for JQ to use in his daily work. 
 License: NA
 Encoding: UTF-8
 LazyData: true
