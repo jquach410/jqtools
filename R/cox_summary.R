@@ -2,6 +2,7 @@
 cox_summary <-
   function(model){
     require(tibble)
+    require(dplyr)
     HRs <-
       model %>%
       summary %>%
